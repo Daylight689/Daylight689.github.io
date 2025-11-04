@@ -2,4 +2,4 @@
 
 This repo is used to deploy the website for 致远学院生存手册. 
 
-The website is [致远学院生存手册](daylight689.github.io).
+The website is [致远学院生存手册](https://daylight689.github.io).
